@@ -18,3 +18,8 @@ This app allows users to simulate pokemon trades and evaluate if thei are fair o
 - Could you plan how could us tackle issue 2? Explain what would you use, how and what do you expect to get from it.
 - Considering this application as the baseline for all others in the organization, which other improvements can you suggest to be considered?
 
+
+
+
+
+Thanks for [Zorron](https://github.com/tucazorron) for the base for this case =]
